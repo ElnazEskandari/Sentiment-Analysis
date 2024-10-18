@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis with BERT
 ## Here are the test codes for sentiment analysis with BERT on different datasets
 
 ### (1) Sentiment Analysis with BERT using Huggingface
